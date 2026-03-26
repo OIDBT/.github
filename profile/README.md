@@ -17,7 +17,7 @@
 * 数据分发者可以直接分发 IPFS 数据，而不是分发传统 BT 数据，理论上用户可以直接在浏览器访问资源（例如直接播放视频）
 
 所有数据开源地址：
-* <https://ipfs.io/ipns/k51qzi5uqu5dlgex0mml8heng2ymlw8ro6yf0tu664sb2lrv3539rslvud62px>
+* <https://ipfs.io/ipns/k51qzi5uqu5dlgex0mml8heng2ymlw8ro6yf0tu664sb2lrv3539rslvud62px>  
   （从公共网关访问）
-* <http://k51qzi5uqu5dlgex0mml8heng2ymlw8ro6yf0tu664sb2lrv3539rslvud62px.ipns.localhost:8080/>
+* <http://k51qzi5uqu5dlgex0mml8heng2ymlw8ro6yf0tu664sb2lrv3539rslvud62px.ipns.localhost:8080/>  
   （从本地节点访问）
