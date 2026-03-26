@@ -15,3 +15,7 @@
 * 由于用户自行设置源，所以上传者也不依附中心和平台，但上传者需要自行与用户达成信任
 * 综上，**不再需要中心化的数据分享平台（例如 BT 站），且用户可帮助数据分发者上传数据（类似 BT 的保种）**
 * 数据分发者可以直接分发 IPFS 数据，而不是分发传统 BT 数据，理论上用户可以直接在浏览器访问资源（例如直接播放视频）
+
+所有数据开源地址：
+<https://ipfs.io/ipns/k51qzi5uqu5dlgex0mml8heng2ymlw8ro6yf0tu664sb2lrv3539rslvud62px> （从公共网关访问）
+<http://k51qzi5uqu5dlgex0mml8heng2ymlw8ro6yf0tu664sb2lrv3539rslvud62px.ipns.localhost:8080/> （从本地节点访问）
